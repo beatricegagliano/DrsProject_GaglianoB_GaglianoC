@@ -1,0 +1,6 @@
+Framework
+Microsoft.AspNetCore.App
+Microsoft.NETCore.App
+
+Pacchetti
+Newtonsoft.Json(13.0.1)
